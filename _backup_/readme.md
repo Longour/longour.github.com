@@ -1,7 +1,7 @@
 ### 浏览器的UI思考
 
 - date: Oct 20, 2013
-- author: 郭轩[x.guo@heweisoft.com]
+- author: 
 
 #### 浏览器的组成部分
 
